@@ -19,10 +19,10 @@ For example, if I wanted to make a phrase called "thanks" that prints out "Thank
     3. Click "Create shortcut"
   2. In Windows 10
     1. Right click the file
-    2. Click "Create shortcut"
+    2. . Click "Create shortcut"
 2. Go to the properties of the file
   1. Right click the file
-  2. Click properties
+  2. 2. Click properties
 3. Click the box next to "Shortcut Key" and enter your desired key combination. I used Ctrl+Shift+P for mine ;)
 4. Click Apply and Ok to save the combo
 
