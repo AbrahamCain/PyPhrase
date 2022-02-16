@@ -13,32 +13,26 @@ For example, if I wanted to make a phrase called "thanks" that prints out "Thank
 
 ##How to create a hotkey in Windows 10/11
 1. Create a shortcut of the python (.py) file
-  1. In Windows 11
-    1. Right click the file
-    2. Click "Show more options"
-    3. Click "Create shortcut"
-  2. In Windows 10
-    1. Right click the file
-    2. . Click "Create shortcut"
+  - In Windows 11
+    - Right click the file
+    - Click "Show more options"
+    - Click "Create shortcut"
+  - In Windows 10
+    - Right click the file
+    - Click "Create shortcut"
 2. Go to the properties of the file
-  1. Right click the file
-  2. 2. Click properties
+  - Right click the file
+  - Click properties
 3. Click the box next to "Shortcut Key" and enter your desired key combination. I used Ctrl+Shift+P for mine ;)
 4. Click Apply and Ok to save the combo
 
 ##How to Create a hotkey in OS X (Mac OS)
 On your Mac, choose Apple menu  > System Preferences, click Keyboard , then click Shortcuts.
 
-In the list on the left, select a category, such as Mission Control or Spotlight.
-
-In the list on the right, select the checkbox next to the shortcut that you want to change.
-
-Double-click the current key combination, then press the new key combination you want to use.
-
-You can’t use each type of key (for example, a letter key) more than once in a key combination.
-
-Quit and reopen any apps you’re using for the new keyboard shortcut to take effect.
-
-If you assign a keyboard shortcut that already exists for another command or app, your new shortcut won’t work. Find the menu command that’s using it, then reassign the keyboard shortcut for that item.
-
-If you want to return all the shortcuts to their original keystroke combinations, go to the Shortcuts pane of Keyboard preferences and click Restore Defaults.
+1. In the list on the left, select a category, such as Mission Control or Spotlight.
+2. In the list on the right, select the checkbox next to the shortcut that you want to change.
+3. Double-click the current key combination, then press the new key combination you want to use.
+4. You can’t use each type of key (for example, a letter key) more than once in a key combination.
+5. Quit and reopen any apps you’re using for the new keyboard shortcut to take effect.
+  -If you assign a keyboard shortcut that already exists for another command or app, your new shortcut won’t work. Find the menu command that’s using it, then reassign the keyboard shortcut for that item.
+  -If you want to return all the shortcuts to their original keystroke combinations, go to the Shortcuts pane of Keyboard preferences and click Restore Defaults.
