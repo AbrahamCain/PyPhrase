@@ -34,5 +34,5 @@ On your Mac, choose Apple menu  > System Preferences, click Keyboard , then clic
 3. Double-click the current key combination, then press the new key combination you want to use.
 4. You can’t use each type of key (for example, a letter key) more than once in a key combination.
 5. Quit and reopen any apps you’re using for the new keyboard shortcut to take effect.
-    - If you assign a keyboard shortcut that already exists for another command or app, your new shortcut won’t work. Find the menu command that’s using it, then reassign the keyboard shortcut for that item.
-    - If you want to return all the shortcuts to their original keystroke combinations, go to the Shortcuts pane of Keyboard preferences and click Restore Defaults.
+  - If you assign a keyboard shortcut that already exists for another command or app, your new shortcut won’t work. Find the menu command that’s using it, then reassign the keyboard shortcut for that item.
+  - If you want to return all the shortcuts to their original keystroke combinations, go to the Shortcuts pane of Keyboard preferences and click Restore Defaults.
