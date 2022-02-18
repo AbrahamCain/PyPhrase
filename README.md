@@ -42,4 +42,4 @@ For example, if I wanted to make a phrase called "thanks" that prints out "Thank
 9. Click the lock into the unlock position on the bottom right corner (May need to enter your password)
 10.Check the box next to "siriactionsd" to enable it 
   a. You may have to run the shortcut once first in a notepad or somewhere that it won't mess anything up to get siriactionsd to prompt you for permission which needs to be granted in order for the Shortcut script to pass input to the python script
-<img width="1194" alt="Screen Shot 2022-02-18 at 7 29 39 AM" src="https://user-images.githubusercontent.com/54870658/154687037-9bca2424-db9c-4cec-980e-300b83474fa2.png">
+<img width="614" alt="Screen Shot 2022-02-18 at 7 27 58 AM" src="https://user-images.githubusercontent.com/54870658/154687086-00a7648a-dbaf-428f-a747-90b1df094d5d.png">
