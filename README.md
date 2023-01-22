@@ -1,6 +1,6 @@
 # PyPhrase
 
-### A python replacement for PhraseExpress compatible with Windows 10 and 11 (OS X is pending Testing)
+### A python replacement for PhraseExpress compatible with Windows 10 and 11, and MacOS
 
 
 ## How it works
